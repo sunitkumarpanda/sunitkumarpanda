@@ -2,9 +2,7 @@
 <h3 align="center">Crafting code, celebrating culture — building Indian tech communities & organizing cultural hackathons.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunitkumarpanda" alt="sunitkumarpanda" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sunitkumarpanda" target="blank"><img src="https://img.shields.io/twitter/follow/sunitkumarpanda?logo=twitter&style=for-the-badge" alt="sunitkumarpanda" /></a> </p>
 
 - 🔭 I’m currently working on **building Indian tech community**
 
