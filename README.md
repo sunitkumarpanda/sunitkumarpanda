@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate with **sponsors and influencers.**
 
-- 👨‍💻 All of my projects are available at [http://sunitpanda.me](sunitpanda.me)
+- 👨‍💻 All of my projects are available at [sunitpanda.me](http://sunitpanda.me)
 
 - 📫 How to reach me **work@sunitpanda.me**
 
